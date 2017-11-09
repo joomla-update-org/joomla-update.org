@@ -1,4 +1,4 @@
-# [https://joomla-update.org/] (https://joomla-update.org/)
+# https://joomla-update.org/
 
 ###EN
 
