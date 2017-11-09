@@ -1,6 +1,6 @@
 # https://joomla-update.org/
 
-###EN
+### EN
 
 Alternate unofficial update server for Joomla!, language packs for Joomla!, some separately updating system extension Joomla!.
 
@@ -14,7 +14,7 @@ Using this update server, you take full responsibility for the fate of your webs
 
 It's okay if you don't trust this update server. You can always download the original updates from Github: https://github.com/joomla/joomla-cms/releases.
 
-###RU
+### RU
 
 Альтернативный неофициальный сервер обновления для Joomla!, языковые пакеты для Joomla!, некоторые отдельно обновляемые системные расширения Joomla!.
 
