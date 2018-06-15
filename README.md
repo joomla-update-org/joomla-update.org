@@ -14,6 +14,8 @@ Using this update server, you take full responsibility for the fate of your webs
 
 It's okay if you don't trust this update server. You can always download the original updates from Github: https://github.com/joomla/joomla-cms/releases.
 
+If you are unsure or you do not know how to manage the update of your site, please, contact the qualified specialist to avoid fatal crashes and other possible unpleasant situations related to the site update.
+
 ### RU
 
 Альтернативный неофициальный сервер обновления для Joomla!, языковые пакеты для Joomla!, некоторые отдельно обновляемые системные расширения Joomla!.
@@ -27,3 +29,5 @@ It's okay if you don't trust this update server. You can always download the ori
 Используя этот сервер обновлений вы полностью берете на себя ответственность за судьбу вашего сайта. Создатель данного сервиса не несет перед вами никакой ответственности за использование вами данного сервера обновлений.
 
 Это нормально, если вы не доверяете этому серверу обновлений. Вы всегда можете скачать оригинальные обновления с Github: https://github.com/joomla/joomla-cms/releases.
+
+Если вы сомневаетесь или вам неизвестно, как управлять обновлением вашего сайта, пожалуйста, во избежания фатальных сбоев и иных возможных неприятных ситуаций, связанных с обновлением сайта, обратитесь за соответствующей к квалифицированному специалисту.
