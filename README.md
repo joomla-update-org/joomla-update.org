@@ -1,4 +1,6 @@
-# https://joomla-update.org/
+# Joomla! Alternative unofficial update server
+
+### https://joomla-update.org/
 
 ### EN
 
