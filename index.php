@@ -80,7 +80,7 @@ include PATH_ROOT . DIRECTORY_SEPARATOR . 'servers.php';
     
     <hr>
 
-    <p class="small">&copy; <a href="https://alekvolsk.pw" target="_blank">Aleksey A. Morozov</a>. All right reserved. <br>This project does not have any commercial gain in any form. The source code of this project available on <a href="https://github.com/joomla-update-org/joomla-update.org" target="_blank">GitHab</a>.</p>
+    <p class="small">&copy; <a href="https://alekvolsk.pw" target="_blank">Aleksey A. Morozov</a>. All right reserved. <br>This project does not have any commercial gain in any form. The source code of this project available on <a href="https://github.com/joomla-update-org/joomla-update.org" target="_blank">GitHub</a>.</p>
     <p class="small">«https://joomla-update.org/» is not affiliated with or endorsed by The Joomla! Project™. Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.</p>
     <p class="small">«Joomla! Alternative update server» and this site is not affiliated with or endorsed by The Joomla! Project™. Any products and services provided through this site are not supported or warrantied by The Joomla! Project or Open Source Matters, Inc. Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.</p>
     <p class="small"><a href="https://money.yandex.ru/to/410011461392459" target="_blank">If you want to support the development of this project 😉</a></p>
