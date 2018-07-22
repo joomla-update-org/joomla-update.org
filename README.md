@@ -4,19 +4,19 @@
 
 ### EN
 
-Alternate unofficial update server for Joomla!, language packs for Joomla!, some separately updating system extension Joomla!.
+Alternative <u>unofficial</u> update server for Joomla!, language packs for Joomla!, some separately updating system extension Joomla!.
 
-The update server was created as an alternative server for those who have for one reason or another unavailable updates from the official servers Amazon (e.g., Amazon's servers were blocked by the authorities in connection with the proposed placing on these servers illegal content).
+The update server was created as an alternative server for those who have, for one reason or another, unavailable updates from the official servers Amazon (for example, Amazon's servers were blocked by the authorities in connection with the proposed placing on these servers of illegal content).
 
-All the files on the server in automatic mode are replicated from the official servers and are completely safe. The replicas are checked daily, 4 times a day.
+All the files on the server in automatic mode are replicated from the official servers and are completely safe. The replicas are checked four times a day.
 
-You will need to manually specify an alternative update server in the settings of the component of Joomla!, and using the component [«Update server Manager»](https://github.com/joomla-update-org/com_updsrv/releases/latest) create update server entry for other extensions.
+You will need to manually specify an alternative update server in the settings of the component of Joomla!, and using the component [«Update server Manager»](https://github.com/joomla-update-org/com_updsrv/releases/latest) create an update server entry for other extensions.
 
-Using this update server, you take full responsibility for the fate of your website. The Creator of this service, shall not bear any responsibility to you for your use of the update server.
+Using this update server, you take full responsibility for the fate of your website. The creator of this service shall not bear any responsibility to you for your use of the update server.
 
-It's okay if you don't trust this update server. You can always download the original updates from Github: https://github.com/joomla/joomla-cms/releases.
+It's okay if you don't trust this update server. You can always download the original updates from GitHub: [https://github.com/joomla/joomla-cms/releases](https://github.com/joomla/joomla-cms/releases).
 
-If you are not sure, or you do not know how to manage the update of your site, please, contact a qualified technician for help in order to avoid fatal crashes and other possible unpleasant situations associated with updating the site.
+If you are not sure, or you do not know how to manage the update of your site, please contact a qualified technician for help in order to avoid fatal crashes and other possible unpleasant situations associated with updating the site.
 
 ### RU
 
