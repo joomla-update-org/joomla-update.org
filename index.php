@@ -100,9 +100,6 @@ include PATH_ROOT . DIRECTORY_SEPARATOR . 'funcs.php';
         The Joomla! Project™. Any products and services provided through this site are not supported or warrantied
         by The Joomla! Project or Open Source Matters, Inc. Use of the Joomla!® name, symbol, logo and related
         trademarks is permitted under a limited license granted by Open Source Matters, Inc.</p>
-    <p class="small">If you want to support the development of this project:
-        <a href="https://www.paypal.me/alekvolsk" target="_blank" rel="noreferrer">PayPal</a>,
-        <a href="https://yoomoney.ru/to/410011461392459" target="_blank" rel="noreferrer">YooMoney</a> 😉</p>
 
     <style>
         @font-face {
